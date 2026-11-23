@@ -1,0 +1,9 @@
+Job Title: Mid-Level Data Analyst
+
+Responsibilities & Requirements:
+- 3+ years of proven experience in Data Analytics or Business Intelligence.
+- Strong proficiency in SQL (PostgreSQL/MySQL) and Python (Pandas, NumPy).
+- Hands-on experience building executive dashboards in Power BI or Tableau.
+- Solid understanding of A/B testing, funnel analysis, and cohort retention metrics.
+- Practical experience with data pipeline orchestration tools such as Apache Airflow and dbt.
+- Familiarity with cloud data warehouses (Google BigQuery or AWS Redshift).
